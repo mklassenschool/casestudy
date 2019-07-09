@@ -2,4 +2,10 @@
 {"Id":"Two","ProductName":"Cheerios","GraphicName":"cheerios.jpg","CostPrice":"2.99","MSRP":"4.99","QtyOnHand":"4","QtyOnBackOrder":"5","Description":"Made with 100 percent natural whole grain oats, Cheerios are wholesome goodness for toddlers and adults.","Brand":"General Mills"},
 {"Id":"Three","ProductName":"Honeycomb","GraphicName":"honeycomb.jpg","CostPrice":"4.49","MSRP":"3.49","QtyOnHand":"10","QtyOnBackOrder":"2","Description":"Honeycomb cereal is a delicious corn and oats cereal in a unique honeycomb shape. Post Honeycomb’s one-of-a-kind taste and honeycomb shape have made it a breakfast classic that kids have loved for over 50 years.","Brand":"Post"},
 {"Id":"Four","ProductName":"Frosted Flakes","GraphicName":"frostedflakes.jpg","CostPrice":"3.49","MSRP":"3.49","QtyOnHand":"8","QtyOnBackOrder":"3","Description":"Kellogg’s Frosted Flakes® has crunchy corn flakes with a perfect coating of sweet frosting.","Brand":"Kellogg's"},
-{"Id":"Five","ProductName":"Alpha-bits","GraphicName":"alphabits.jpg","CostPrice":"3.22","MSRP":"3.33","QtyOnHand":"4","QtyOnBackOrder":"7","Description":"The alphabet shapes are a fun way to bring their imagination to life as each new bowl holds a story waiting to be told. Alpha-Bits contains whole grain, no artificial colours or flavours, is a source of fibre, and has 10 essential nutrients. This delicious cereal with alphabet delight is one both kids and parents will L-O-V-E.","Brand":"Post"}]
+{"Id":"Five","ProductName":"Alpha-bits","GraphicName":"alphabits.jpg","CostPrice":"3.22","MSRP":"3.33","QtyOnHand":"4","QtyOnBackOrder":"7","Description":"The alphabet shapes are a fun way to bring their imagination to life as each new bowl holds a story waiting to be told. Alpha-Bits contains whole grain, no artificial colours or flavours, is a source of fibre, and has 10 essential nutrients. This delicious cereal with alphabet delight is one both kids and parents will L-O-V-E.","Brand":"Post"},
+{"Id":"Six","ProductName":"Lucky Charms","GraphicName":"luckycharms.jpg","CostPrice":"2.99","MSRP":"3.99","QtyOnHand":"8","QtyOnBackOrder":"3","Description":"For five decades and counting Lucky Charms cereal has featured frosted oats and colored marshmallows.","Brand":"General Mills"}
+
+
+
+
+]
