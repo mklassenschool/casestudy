@@ -4,8 +4,8 @@
 {"Id":"Four","ProductName":"Frosted Flakes","GraphicName":"frostedflakes.jpg","CostPrice":"3.49","MSRP":"3.49","QtyOnHand":"8","QtyOnBackOrder":"3","Description":"Kellogg’s Frosted Flakes® has crunchy corn flakes with a perfect coating of sweet frosting.","Brand":"Kellogg's"},
 {"Id":"Five","ProductName":"Alpha-bits","GraphicName":"alphabits.jpg","CostPrice":"3.22","MSRP":"3.33","QtyOnHand":"4","QtyOnBackOrder":"7","Description":"The alphabet shapes are a fun way to bring their imagination to life as each new bowl holds a story waiting to be told. Alpha-Bits contains whole grain, no artificial colours or flavours, is a source of fibre, and has 10 essential nutrients. This delicious cereal with alphabet delight is one both kids and parents will L-O-V-E.","Brand":"Post"},
 {"Id":"Six","ProductName":"Lucky Charms","GraphicName":"luckycharms.jpg","CostPrice":"2.99","MSRP":"3.99","QtyOnHand":"8","QtyOnBackOrder":"3","Description":"For five decades and counting Lucky Charms cereal has featured frosted oats and colored marshmallows.","Brand":"General Mills"},
-{"Id":"Seven","ProductName":"Trix","GraphicName":"trix.jpg","CostPrice":"2.99","MSRP":"4.99","QtyOnHand":"4","QtyOnBackOrder":"5","Description":"Trix is fortified with 12 vitamins and minerals, and made from whole grain.","Brand":"General Mills"}
-
+{"Id":"Seven","ProductName":"Trix","GraphicName":"trix.jpg","CostPrice":"2.99","MSRP":"4.99","QtyOnHand":"4","QtyOnBackOrder":"5","Description":"Trix is fortified with 12 vitamins and minerals, and made from whole grain.","Brand":"General Mills"},
+{"Id":"Eight","ProductName":"Rice Krispies","GraphicName":"ricekrispies.jpg","CostPrice":"3.21","MSRP":"3.99","QtyOnHand":"7","QtyOnBackOrder":"4","Description":"The original crisped rice cereal has become one of life's simple pleasures.","Brand":"Kellogg's"}
 
 
 
